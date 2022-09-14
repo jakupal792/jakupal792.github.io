@@ -1,6 +1,6 @@
 # jakupal792.github.io
 Niniejsza aplikacja była projektem z przedmiotu Tworzenie Aplikacji Wieloplatformowych VIII semestrze kierunku Informatyka Przemysłowa. 
-Jest aplikacją typu Angular, działającą w przeglądarce (w celu uruchomienia należy wejść na adres jakupal792.github.io). 
+Jest aplikacją typu Angular, działającą w przeglądarce (w celu uruchomienia należy wejść na adres jakupal792.github.io oraz uruchomić API). 
 Umożliwia obliczanie kosztów oraz zużycia energii elektrycznej w lokalu mieszkalnym.
 
 This application was created as project int the subject "Creating multi-platform applications" in 4th year of studies "Industrial Informacits". 
